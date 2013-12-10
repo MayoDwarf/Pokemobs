@@ -1,0 +1,4 @@
+Pokemobs
+========
+
+All rights reserved.
